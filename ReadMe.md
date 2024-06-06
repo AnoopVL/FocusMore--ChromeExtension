@@ -39,5 +39,5 @@
 ## ScreenShots
 
 ![ss1](<ss-FocusMore(1).png>)
-s
+
 ![ss2](<ss-FocusMore(2).png>)
